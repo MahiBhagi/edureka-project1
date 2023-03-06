@@ -5,7 +5,7 @@ class HelloWorld
 {
  public static void main(String args[])
  {
-    System.out.println("Daily practice makes  !!!");
+    System.out.println("Daily practice makes perfect   !!!");
  }
 
 }
